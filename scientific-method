@@ -1,5 +1,274 @@
 {
-  "title": "Press Space or double-click to edit",
+  "title": "Scientific method",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "flow",
+      "id": 49,
+      "ideas": {
+        "1": {
+          "title": "testable hypothesis",
+          "id": 50,
+          "ideas": {
+            "1": {
+              "title": "observations",
+              "id": 51,
+              "ideas": {
+                "1": {
+                  "title": "data collection",
+                  "id": 52,
+                  "ideas": {
+                    "1": {
+                      "title": "working with data",
+                      "id": 53
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "quasi experiment",
+      "id": 69,
+      "ideas": {
+        "1": {
+          "title": "Example: aggression experiment",
+          "formatVersion": 2,
+          "links": [],
+          "ideas": {
+            "1": {
+              "title": "operational definition ",
+              "id": 44,
+              "ideas": {
+                "1": {
+                  "title": "aggression: number of kicks/bites exchanged (i.e physical aggression) -- does not cover psychological aggression such as manipulation/lying etc.",
+                  "id": 17,
+                  "ideas": {}
+                }
+              }
+            },
+            "2": {
+              "title": "testable hypothesis",
+              "ideas": {
+                "1": {
+                  "title": " are boys more aggressive than girls during playtime?",
+                  "id": 43
+                }
+              },
+              "id": 14
+            },
+            "3": {
+              "title": "observations",
+              "ideas": {
+                "1": {
+                  "title": "dependent variable: aggression score",
+                  "id": 16,
+                  "ideas": {
+                    "1": {
+                      "title": "use panel of judges to determine if kicks/bites etc. were an accident or not",
+                      "id": 33
+                    }
+                  }
+                },
+                "2": {
+                  "title": "independent variable: gender",
+                  "id": 23
+                }
+              },
+              "id": 15
+            },
+            "4": {
+              "title": "data collection",
+              "id": 34,
+              "ideas": {
+                "1": {
+                  "title": "random sample: pick every 10th child -- background,culture,language may be a factor (repeat study in other conditions)",
+                  "id": 40
+                }
+              }
+            },
+            "5": {
+              "title": "external validity",
+              "id": 41,
+              "ideas": {
+                "1": {
+                  "title": "children on a football field will have a different level of aggression from children playing chess",
+                  "id": 42
+                }
+              }
+            }
+          },
+          "id": 13
+        }
+      }
+    },
+    "-2": {
+      "title": "observations",
+      "id": 5,
+      "ideas": {
+        "4": {
+          "title": "identify independent variable i.e does not change",
+          "id": 22,
+          "ideas": {}
+        },
+        "5": {
+          "title": "identify dependent variable",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "characteristics",
+              "id": 26,
+              "ideas": {
+                "1": {
+                  "title": "easily / objectively measured",
+                  "id": 24
+                },
+                "2": {
+                  "title": "use data to deal with subjectivity e.g a panel of judges",
+                  "id": 25
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-12": {
+      "title": "operational definition",
+      "id": 19,
+      "ideas": {}
+    },
+    "-22": {
+      "title": "testable hypothesis: formulated predictions that will be either confirmed or challenged by observations",
+      "id": 9,
+      "ideas": {}
+    },
+    "-32": {
+      "title": "external validity: degree to which study participants' stimuli and procedures reflect the real world ",
+      "id": 37,
+      "ideas": {
+        "1": {
+          "title": "demand characteristics: any cues that make participants think one response is more desirable than another",
+          "id": 46,
+          "ideas": {
+            "1": {
+              "title": "monitoring should not affect the behavior",
+              "id": 45
+            },
+            "2": {
+              "title": "double blind design: assign participants to experimental conditions while keeping both researchers and participants in the dark",
+              "id": 47
+            },
+            "3": {
+              "title": "remain neutral when asking questions",
+              "id": 48
+            }
+          }
+        }
+      }
+    },
+    "-42": {
+      "title": "data collection",
+      "id": 28,
+      "ideas": {
+        "1": {
+          "title": "should rely on personal experience",
+          "id": 29
+        },
+        "2": {
+          "title": "should not rely on anecdotes ",
+          "id": 30
+        },
+        "3": {
+          "title": "should rely on empirical data",
+          "id": 31,
+          "ideas": {
+            "1": {
+              "title": "define sample (subset of population)",
+              "id": 32,
+              "ideas": {
+                "1": {
+                  "title": "random sample: deals with diversity ",
+                  "id": 35
+                },
+                "2": {
+                  "title": "case study: deals intensively with one person",
+                  "id": 36
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "working with data",
+          "id": 55,
+          "ideas": {
+            "1": {
+              "title": "describe statistics: characterize data pattern (measure of central tendency + variability)",
+              "id": 56,
+              "ideas": {
+                "1": {
+                  "title": "correlations: tendency of two variables to change together",
+                  "id": 59,
+                  "ideas": {
+                    "1": {
+                      "title": "reliability: degree of consistency with which a test measures a trait or attribute",
+                      "id": 61
+                    }
+                  }
+                },
+                "2": {
+                  "title": "standard deviation",
+                  "id": 63,
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "variability",
+                  "id": 65
+                },
+                "4": {
+                  "title": "validity",
+                  "id": 66
+                }
+              }
+            },
+            "2": {
+              "title": "inferential statistics: draw further claims from data pattern -- will pattern be observed in other samples?",
+              "id": 58,
+              "ideas": {
+                "1": {
+                  "title": "effect size: magnitude of difference between groups in  a study",
+                  "id": 67
+                },
+                "2": {
+                  "title": "statistical significance: likelihood that the results of the study happened by chance",
+                  "id": 68
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-52": {
+      "title": "studies",
+      "id": 73,
+      "ideas": {
+        "1": {
+          "title": "quasi experiment: comparison that relies on group that already exists e.g boys/girls",
+          "id": 74
+        },
+        "2": {
+          "title": "correlational studies: analyze relationships between variables that were in place before the study, without manipulating those variables",
+          "id": 75,
+          "ideas": {}
+        }
+      }
+    }
+  },
+  "links": []
 }
