@@ -1,5 +1,85 @@
 {
   "title": "Press Space or double-click to edit",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "knowledge",
+      "id": 2,
+      "ideas": {
+        "2": {
+          "title": "acquisition",
+          "id": 5
+        },
+        "3": {
+          "title": "study",
+          "id": 6
+        },
+        "4": {
+          "title": "learning",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "logic models",
+              "id": 9
+            },
+            "2": {
+              "title": "visualization + simplifications",
+              "id": 12
+            },
+            "3": {
+              "title": "analogies",
+              "id": 13
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "wbe/sim roadmap",
+      "id": 22,
+      "attr": {
+        "attachment": {
+          "contentType": "text/html",
+          "content": "2 steps:<div><br></div><div>1. understand the existing roadmap + existing solutions</div><div><br></div><div>2. study related fields to come up with better solutions&nbsp;</div>"
+        },
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-1": {
+      "title": "study",
+      "id": 14,
+      "ideas": {
+        "1": {
+          "title": "psychology",
+          "id": 15,
+          "ideas": {
+            "1": {
+              "title": "neuroscience",
+              "id": 16
+            },
+            "2": {
+              "title": "cognitive science",
+              "id": 17
+            },
+            "3": {
+              "title": "biology",
+              "id": 18
+            },
+            "4": {
+              "title": "physics",
+              "id": 19
+            },
+            "5": {
+              "title": "chemistry",
+              "id": 20
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": []
 }
